@@ -1,7 +1,5 @@
 # EdgeDetection
-A program which applies a convolution matrix of a some inputted size to an inputted image and outputs a new of the images vertical and or horizontal edges.
-
-This then generates a new image with the only specified edges shown
+A program which applies a convolution matrix of a some inputted size to an inputted image and outputs an image of the images vertical and or horizontal edges based on input.
 
 For example All of these images were created using a 3 x 3 convolution matrix:
 
